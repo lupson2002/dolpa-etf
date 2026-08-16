@@ -1,0 +1,6368 @@
+{
+  "updated_at": "2026-07-03T12:36:54Z",
+  "count": {
+    "US": 400,
+    "KR": 871
+  },
+  "data": {
+    "US": [
+      {
+        "symbol": "VTI",
+        "name": "Vanguard Total Stock Market ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VOO",
+        "name": "Vanguard S&P 500 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IVV",
+        "name": "iShares Core S&P 500 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPY",
+        "name": "State Street SPDR S&P 500 ETF T",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VXUS",
+        "name": "Vanguard Total International St",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "QQQ",
+        "name": "Invesco QQQ Trust, Series 1",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "BND",
+        "name": "Vanguard Total Bond Market ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VUG",
+        "name": "Vanguard Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VEA",
+        "name": "Vanguard FTSE Developed Markets",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VTV",
+        "name": "Vanguard Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VO",
+        "name": "Vanguard Mid-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IEFA",
+        "name": "iShares Core MSCI EAFE ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VB",
+        "name": "Vanguard Small-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VGT",
+        "name": "Vanguard Information Tech ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VWO",
+        "name": "Vanguard FTSE Emerging Markets ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IEMG",
+        "name": "iShares Core MSCI Emerging Mark",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GLD",
+        "name": "SPDR Gold Shares",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPYM",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AGG",
+        "name": "iShares Core U.S. Aggregate Bon",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWF",
+        "name": "iShares Russell 1000 Growth Fun",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VIG",
+        "name": "Vanguard Div Appreciation ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLK",
+        "name": "State Street Technology Select ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BNDX",
+        "name": "Vanguard Total International Bo",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IJH",
+        "name": "iShares Core S&P Mid-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IJR",
+        "name": "iShares Core S&P Small-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "QQQM",
+        "name": "Invesco NASDAQ 100 ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VYM",
+        "name": "Vanguard High Dividend Yield ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VT",
+        "name": "Vanguard Total World Stock Inde",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHD",
+        "name": "Schwab US Dividend Equity ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VEU",
+        "name": "Vanguard FTSE All World Ex US E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VXF",
+        "name": "Vanguard Extended Market ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ITOT",
+        "name": "iShares Core S&P Total U.S. Sto",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SGOV",
+        "name": "iShares 0-3 Month Treasury Bond",
+        "exchange": "NYQ"
+      },
+      {
+        "symbol": "RSP",
+        "name": "Invesco S&P 500 Equal Weight ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWM",
+        "name": "iShares Russell 2000 Index Fund",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EFA",
+        "name": "iShares MSCI EAFE ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IVW",
+        "name": "iShares S&P 500 Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWD",
+        "name": "iShares Russell 1000 Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VV",
+        "name": "Vanguard Large-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHX",
+        "name": "Schwab U.S. Large-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VTIP",
+        "name": "Vanguard Short-Term Inflation-P",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "BSV",
+        "name": "Vanguard Short-Term Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IAU",
+        "name": "iShares Gold Trust Shares",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VNQ",
+        "name": "Vanguard Real Estate ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VCIT",
+        "name": "Vanguard Intermediate-Term Corp",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SMH",
+        "name": "VanEck Semiconductor ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SCHF",
+        "name": "Schwab International Equity ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VBR",
+        "name": "Vanguard Small-Cap Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHG",
+        "name": "Schwab U.S. Large-Cap Growth ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IXUS",
+        "name": "iShares Core MSCI Total Interna",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IBIT",
+        "name": "iShares Bitcoin Trust ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VONG",
+        "name": "Vanguard Russell 1000 Growth ET",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IWR",
+        "name": "iShares Russell Mid-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPYG",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BIV",
+        "name": "Vanguard Intermediate-Term Bond",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VCSH",
+        "name": "Vanguard Short-Term Corporate B",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VGIT",
+        "name": "Vanguard Intermediate-Term Trea",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XLF",
+        "name": "State Street Financial Select S",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWB",
+        "name": "iShares Russell 1000 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IEF",
+        "name": "iShares 7-10 Year Treasury Bond",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IVE",
+        "name": "iShares S&P 500 Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VTEB",
+        "name": "Vanguard Tax-Exempt Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "QUAL",
+        "name": "iShares MSCI USA Quality Factor",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DFAC",
+        "name": "Dimensional U.S. Core Equity 2 ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BIL",
+        "name": "State Street SPDR Bloomberg 1-3",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VBK",
+        "name": "Vanguard Small-Cap Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MUB",
+        "name": "iShares National Muni Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DIA",
+        "name": "State Street SPDR Dow Jones Ind",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JEPI",
+        "name": "JPMorgan Equity Premium Income ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHB",
+        "name": "Schwab U.S. Broad Market ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "TLT",
+        "name": "iShares 20+ Year Treasury Bond ",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "GOVT",
+        "name": "iShares U.S. Treasury Bond ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SPDW",
+        "name": "State Street SPDR Portfolio Dev",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DGRO",
+        "name": "iShares Core Dividend Growth ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IUSB",
+        "name": "iShares Core Universal USD Bond",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "JEPQ",
+        "name": "JPMorgan Nasdaq Equity Premium ",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "MBB",
+        "name": "iShares MBS ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XLE",
+        "name": "State Street Energy Select Sect",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JPST",
+        "name": "JPMorgan Ultra-Short Income ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SOXX",
+        "name": "iShares PHLX SOX Semiconductor ",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XLV",
+        "name": "State Street Health Care Select",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VGK",
+        "name": "Vanguard FTSEEuropean ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SLV",
+        "name": "iShares Silver Trust",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DYNF",
+        "name": "iShares U.S. Equity Factor Rota",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VOE",
+        "name": "Vanguard Mid-Cap Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPYV",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGDV",
+        "name": "Capital Group Dividend Value ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MGK",
+        "name": "Vanguard Mega Cap Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VGSH",
+        "name": "Vanguard Short-Term Treasury ET",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VOT",
+        "name": "Vanguard Mid-Cap Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ACWI",
+        "name": "iShares MSCI ACWI ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IUSG",
+        "name": "iShares Core S&P U.S. Growth ET",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "GLDM",
+        "name": "SPDR Gold MiniShares Trust",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IDEV",
+        "name": "iShares Core MSCI International",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EEM",
+        "name": "iShares MSCI Emerging Index Fun",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLI",
+        "name": "State Street Industrial Select ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EFV",
+        "name": "iShares MSCI EAFE Value ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "LQD",
+        "name": "iShares iBoxx $ Investment Grad",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JAAA",
+        "name": "Janus Henderson AAA CLO ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GDX",
+        "name": "VanEck Gold Miners ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AVUV",
+        "name": "Avantis U.S. Small Cap Value ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "USHY",
+        "name": "iShares Broad USD High Yield Co",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "MTUM",
+        "name": "iShares MSCI USA Momentum Facto",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VOOG",
+        "name": "Vanguard S&P 500 Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MDY",
+        "name": "State Street SPDR S&P MIDCAP 40",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IUSV",
+        "name": "iShares Core S&P U.S. Value ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FBND",
+        "name": "Fidelity Total Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AVEM",
+        "name": "Avantis Emerging Markets Equity",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FNDX",
+        "name": "Schwab Fundamental U.S. Large C",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SHY",
+        "name": "iShares 1-3 Year Treasury Bond ",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IYW",
+        "name": "iShares U.S. Technology ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLC",
+        "name": "State Street Communication Serv",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGGR",
+        "name": "Capital Group Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EMXC",
+        "name": "iShares MSCI Emerging Markets e",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FNDF",
+        "name": "Schwab Fundamental Internationa",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EWY",
+        "name": "iShares MSCI South Korea ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLY",
+        "name": "State Street Consumer Discretio",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "USMV",
+        "name": "iShares MSCI USA Min Vol Factor",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SCHA",
+        "name": "Schwab U.S. Small-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DVY",
+        "name": "iShares Select Dividend ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "RDVY",
+        "name": "First Trust Rising Dividend Ach",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XLU",
+        "name": "State Street Utilities Select S",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IGSB",
+        "name": "iShares 1-5 Year Investment Gra",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IQMM",
+        "name": "ProShares GENIUS Money Market E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VONV",
+        "name": "Vanguard Russell 1000 Value ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FTEC",
+        "name": "Fidelity MSCI Information Techn",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EWJ",
+        "name": "iShares MSCI Japan Index Fund",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SDY",
+        "name": "State Street SPDR S&P Dividend ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFUS",
+        "name": "Dimensional U.S. Equity Market ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SHV",
+        "name": "iShares 0-1 Year Treasury Bond ",
+        "exchange": "NYQ"
+      },
+      {
+        "symbol": "OEF",
+        "name": "iShares S&P 100 Fund",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWP",
+        "name": "iShares Russell Midcap Growth E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VYMI",
+        "name": "Vanguard International High Div",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFIV",
+        "name": "Dimensional International Value",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPMO",
+        "name": "Invesco S&P 500 Momentum ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AVDV",
+        "name": "Avantis International Small Cap",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWV",
+        "name": "iShares Russell 3000 Fund",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VHT",
+        "name": "Vanguard Health Care ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPHQ",
+        "name": "Invesco S&P 500 Quality ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IEI",
+        "name": "iShares 3-7 Year Treasury Bond ",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "COWZ",
+        "name": "Pacer US Cash Cows 100 ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "IGIB",
+        "name": "iShares 5-10 Year Investment Gr",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SPEM",
+        "name": "State Street SPDR Portfolio Eme",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWY",
+        "name": "iShares Russell Top 200 Growth ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ESGU",
+        "name": "iShares ESG Aware MSCI USA ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SPMD",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VTWO",
+        "name": "Vanguard Russell 2000 ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "USIG",
+        "name": "iShares Broad USD Investment Gr",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "BBJP",
+        "name": "JPMorgan BetaBuilders Japan ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VMBS",
+        "name": "Vanguard Mortgage-Backed Securi",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "USFR",
+        "name": "WisdomTree Floating Rate Treasu",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DGRW",
+        "name": "WisdomTree U.S. Quality Dividen",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "AVDE",
+        "name": "Avantis International Equity ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BINC",
+        "name": "iShares Flexible Income Active ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IGV",
+        "name": "iShares Expanded Tech-Software ",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DFAI",
+        "name": "Dimensional International Core ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PULS",
+        "name": "PGIM Ultra Short Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BAI",
+        "name": "iShares A.I. Innovation and Tec",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MINT",
+        "name": "PIMCO Enhanced Short Maturity A",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "HYG",
+        "name": "iShares iBoxx $ High Yield Corp",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EFG",
+        "name": "iShares MSCI EAFE Growth ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VLUE",
+        "name": "iShares MSCI USA Value Factor E",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "STIP",
+        "name": "iShares 0-5 Year TIPS Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHP",
+        "name": "Schwab U.S. TIPs ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPSM",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GSLC",
+        "name": "Goldman Sachs ActiveBeta U.S. L",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHV",
+        "name": "Schwab U.S. Large-Cap Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IWS",
+        "name": "iShares Russell Mid-cap Value E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "TIP",
+        "name": "iShares TIPS Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFUV",
+        "name": "Dimensional US Marketwide Value",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCZ",
+        "name": "iShares MSCI EAFE Small-Cap ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XLP",
+        "name": "State Street Consumer Staples S",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VGLT",
+        "name": "Vanguard Long-Term Treasury ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IWO",
+        "name": "iShares Russell 2000 Growth Fun",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHM",
+        "name": "Schwab U.S. Mid Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFAS",
+        "name": "Dimensional U.S. Small Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ITA",
+        "name": "iShares U.S. Aerospace & Defens",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DFIC",
+        "name": "Dimensional International Core ",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VSS",
+        "name": "Vanguard FTSE All-Wld ex-US SmC",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EMB",
+        "name": "iShares J.P. Morgan USD Emergin",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IWN",
+        "name": "iShares Russell 2000 Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DRAM",
+        "name": "Roundhill Memory ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "FIMU",
+        "name": "Fidelity Intermediate Municipal Income ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VPL",
+        "name": "Vanguard FTSE Pacific ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PFF",
+        "name": "iShares Preferred and Income Se",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFAT",
+        "name": "Dimensional U.S. Targeted Value",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PYLD",
+        "name": "PIMCO Multisector Bond Active E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CIBR",
+        "name": "First Trust NASDAQ Cybersecurit",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SPTM",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PAVE",
+        "name": "Global X U.S. Infrastructure De",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "IAGG",
+        "name": "iShares International Aggregate",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VFH",
+        "name": "Vanguard Financials ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "HDV",
+        "name": "iShares Core High Dividend ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IQLT",
+        "name": "iShares MSCI Intl Quality Facto",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FBTC",
+        "name": "Fidelity Wise Origin Bitcoin Fu",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "ESGV",
+        "name": "Vanguard ESG U.S. Stock ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "AVUS",
+        "name": "Avantis U.S. Equity ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHO",
+        "name": "Schwab Short-Term U.S. Treasury",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHR",
+        "name": "Schwab Intermediate-Term U.S. T",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AVLV",
+        "name": "Avantis U.S. Large Cap Value ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHE",
+        "name": "Schwab Emerging Markets Equity ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MGV",
+        "name": "Vanguard Mega Cap Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JCPB",
+        "name": "JPMorgan Core Plus Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "QQQI",
+        "name": "NEOS Nasdaq 100 High Income ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFAU",
+        "name": "Dimensional US Core Equity Mark",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AMLP",
+        "name": "Alerian MLP ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BOXX",
+        "name": "Alpha Architect 1-3 Month Box E",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DUHP",
+        "name": "Dimensional US High Profitabili",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFAX",
+        "name": "Dimensional World ex U.S. Core ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MOAT",
+        "name": "VanEck Morningstar Wide Moat ET",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VDE",
+        "name": "Vanguard Energy ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ESGD",
+        "name": "iShares ESG Aware MSCI EAFE ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "ACWX",
+        "name": "iShares MSCI ACWI ex U.S. ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SPIB",
+        "name": "State Street SPDR Portfolio Int",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHI",
+        "name": "Schwab 5-10 Year Corporate Bond",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PBUS",
+        "name": "Invesco MSCI USA ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "CGGO",
+        "name": "Capital Group Global Growth Equ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "TLH",
+        "name": "iShares 10-20 Year Treasury Bon",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VONE",
+        "name": "Vanguard Russell 1000 ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "GRID",
+        "name": "First Trust NASDAQ Clean Edge S",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SUB",
+        "name": "iShares Short-Term National Mun",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLG",
+        "name": "Invesco S&P 500 Top 50 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PVAL",
+        "name": "Putnam Focused Large Cap Value ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPHY",
+        "name": "State Street SPDR Portfolio Hig",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "NOBL",
+        "name": "ProShares S&P 500 Dividend Aris",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "IGM",
+        "name": "iShares Expanded Tech Sector ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IJK",
+        "name": "iShares S&P Mid-Cap 400 Growth ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ONEQ",
+        "name": "Fidelity Nasdaq Composite Index",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "JIRE",
+        "name": "JPMorgan International Research",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AIQ",
+        "name": "Global X Artificial Intelligenc",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "CGUS",
+        "name": "Capital Group Core Equity ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MGC",
+        "name": "Vanguard Mega Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SDVY",
+        "name": "First Trust SMID Cap Rising Div",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "EWT",
+        "name": "iShares MSCI Taiwan ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GBTC",
+        "name": "Grayscale Bitcoin Trust (BTC)",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFCF",
+        "name": "Dimensional Core Fixed Income E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AIRR",
+        "name": "First Trust RBA American Indust",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IGF",
+        "name": "iShares Global Infrastructure E",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "BBCA",
+        "name": "JPMorgan BetaBuilders Canada ET",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VPU",
+        "name": "Vanguard Utilities ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHZ",
+        "name": "Schwab US Aggregate Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPSB",
+        "name": "State Street SPDR Portfolio Sho",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EWZ",
+        "name": "iShares MSCI Brazil ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPTI",
+        "name": "State Street SPDR Portfolio Int",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PAAA",
+        "name": "PGIM AAA CLO ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPTL",
+        "name": "State Street SPDR Portfolio Lon",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPYI",
+        "name": "NEOS S&P 500 High Income ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "JGRO",
+        "name": "JPMorgan Active Growth ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHH",
+        "name": "Schwab U.S. REIT ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FENI",
+        "name": "Fidelity Enhanced International",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FDVV",
+        "name": "Fidelity High Dividend ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPAB",
+        "name": "State Street SPDR Portfolio Agg",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BUFR",
+        "name": "FT Vest Laddered Buffer ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DFAE",
+        "name": "Dimensional Emerging Core Equit",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FNDE",
+        "name": "Schwab Fundamental Emerging Mar",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PRF",
+        "name": "Invesco RAFI US 1000 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FLOT",
+        "name": "iShares Floating Rate Bond ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "IXN",
+        "name": "iShares Global Tech ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EZU",
+        "name": "iShares MSCI Eurozone ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DFEM",
+        "name": "Dimensional Emerging Markets Co",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VCLT",
+        "name": "Vanguard Long-Term Corporate Bo",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VIGI",
+        "name": "Vanguard International Dividend",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "BBEU",
+        "name": "JPMorgan BetaBuilders Europe ET",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "VDC",
+        "name": "Vanguard Consumer Staples ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JPIE",
+        "name": "JPMorgan Income ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "RWL",
+        "name": "Invesco S&P 500 Revenue ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IOO",
+        "name": "iShares Global 100 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FNDA",
+        "name": "Schwab Fundamental U.S. Small C",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IEUR",
+        "name": "iShares Core MSCI Europe ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VUSB",
+        "name": "Vanguard Ultra-Short Bond ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DBEF",
+        "name": "Xtrackers MSCI EAFE Hedged Equi",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GDXJ",
+        "name": "VanEck Junior Gold Miners ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IDV",
+        "name": "iShares International Select Di",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "BLV",
+        "name": "Vanguard Long-Term Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IJJ",
+        "name": "iShares S&P Mid-Cap 400 Value E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "QYLD",
+        "name": "Global X NASDAQ 100 Covered Cal",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XBI",
+        "name": "State Street SPDR S&P Biotech E",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BBUS",
+        "name": "JPMorgan BetaBuilders U.S. Equi",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "PPA",
+        "name": "Invesco Aerospace & Defense ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VBIL",
+        "name": "Vanguard 0-3 Month Treasury Bil",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "VIS",
+        "name": "Vanguard Industrials ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IJS",
+        "name": "iShares S&P SmallCap 600 Value ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JQUA",
+        "name": "JPMorgan U.S. Quality Factor ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "URTH",
+        "name": "iShares MSCI World ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JBND",
+        "name": "JPMorgan Active Bond ETF",
+        "exchange": "NYQ"
+      },
+      {
+        "symbol": "BOND",
+        "name": "PIMCO Active Bond Exchange-Trad",
+        "exchange": "NYQ"
+      },
+      {
+        "symbol": "COPX",
+        "name": "Global X Copper Miners ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SHLD",
+        "name": "Global X Defense Tech ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FVD",
+        "name": "First Trust VL Dividend",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLRE",
+        "name": "State Street Real Estate Select",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IBB",
+        "name": "iShares Biotechnology ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "CGCP",
+        "name": "Capital Group Core Plus Income ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JMUB",
+        "name": "JPMorgan Municipal ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SGOL",
+        "name": "abrdn Physical Gold Shares ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JNK",
+        "name": "State Street SPDR Bloomberg Hig",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FTCS",
+        "name": "First Trust Capital Strength ET",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFSV",
+        "name": "Dimensional US Small Cap Value ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FELC",
+        "name": "Fidelity Enhanced Large Cap Cor",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GBIL",
+        "name": "Goldman Sachs Access Treasury 0",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ICSH",
+        "name": "iShares Ultra Short Duration Bo",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SHYG",
+        "name": "iShares 0-5 Year High Yield Cor",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFMC",
+        "name": "U.S. Micro Cap Portfolio: ETF C",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VFLO",
+        "name": "VictoryShares Free Cash Flow ET",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "IJT",
+        "name": "iShares S&P SmallCap 600 Growth",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "XMMO",
+        "name": "Invesco S&P MidCap Momentum ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FDL",
+        "name": "First Trust Morningstar ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GUNR",
+        "name": "FlexShares Global Upstream Natu",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "TCAF",
+        "name": "T. Rowe Price Capital Appreciat",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XLB",
+        "name": "State Street Materials Select S",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ARKK",
+        "name": "ARK Innovation ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SPYD",
+        "name": "State Street SPDR Portfolio S&P",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IAUM",
+        "name": "iShares Gold Trust Micro Shares",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BKLN",
+        "name": "Invesco Senior Loan ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JGLO",
+        "name": "JPMorgan Global Select Equity E",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "HEFA",
+        "name": "iShares Currency Hedged MSCI EA",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "DIVO",
+        "name": "Amplify CWP Enhanced Dividend I",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "ICVT",
+        "name": "iShares Convertible Bond ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "TBIL",
+        "name": "F/m US Treasury 3 Month Bill Fu",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "ESGE",
+        "name": "iShares ESG Aware MSCI EM ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "THRO",
+        "name": "iShares U.S. Thematic Rotation ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "URA",
+        "name": "Global X Uranium ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VCRB",
+        "name": "Vanguard Core Bond ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FMDE",
+        "name": "Fidelity Enhanced Mid Cap Core ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SPMB",
+        "name": "State Street SPDR Portfolio Mor",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JMTG",
+        "name": "JPMorgan Mortgage-Backed Securi",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VCR",
+        "name": "Vanguard Consumer Discretion ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FBCG",
+        "name": "Fidelity Blue Chip Growth ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SPLV",
+        "name": "Invesco S&P 500 Low Volatility ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DXJ",
+        "name": "WisdomTree Japan Hedged Equity ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CORO",
+        "name": "iShares International Country R",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFSD",
+        "name": "Dimensional Short-Duration Fixe",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "INDA",
+        "name": "Ishares MSCI India ETF",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "JMBS",
+        "name": "Janus Henderson Mortgage-Backed",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VOOV",
+        "name": "Vanguard S&P 500 Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGBL",
+        "name": "Capital Group Core Balanced ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VSGX",
+        "name": "Vanguard ESG International Stoc",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "TFLO",
+        "name": "iShares Treasury Floating Rate ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VWOB",
+        "name": "Vanguard Emerging Markets Gover",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "JAVA",
+        "name": "JPMorgan Active Value ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BBIN",
+        "name": "JPMorgan BetaBuilders Internati",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "XAR",
+        "name": "State Street SPDR S&P Aerospace",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FTSM",
+        "name": "First Trust Enhanced Short Matu",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SMBS",
+        "name": "Schwab Mortgage-Backed Securiti",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BBAX",
+        "name": "JPMorgan BetaBuilders Developed",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "JMST",
+        "name": "JPMorgan Ultra-Short Municipal ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "MCHI",
+        "name": "iShares MSCI China ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FPE",
+        "name": "First Trust Preferred Securitie",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VOX",
+        "name": "Vanguard Communication Services",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "LMBS",
+        "name": "First Trust Low Duration Opport",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "CWB",
+        "name": "State Street SPDR Bloomberg Con",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "KWEB",
+        "name": "KraneShares CSI China Internet ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGXU",
+        "name": "Capital Group International Foc",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DFLV",
+        "name": "Dimensional US Large Cap Value ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VTHR",
+        "name": "Vanguard Russell 3000 ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DLN",
+        "name": "WisdomTree U.S. LargeCap Divide",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGMU",
+        "name": "Capital Group Municipal Income ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "PDBC",
+        "name": "Invesco Optimum Yield Diversifi",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DIHP",
+        "name": "Dimensional International High ",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "BLCR",
+        "name": "iShares Large Cap Core Active E",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "DFIS",
+        "name": "Dimensional International Small",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "ETHA",
+        "name": "iShares Ethereum Trust ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SPTS",
+        "name": "State Street SPDR Portfolio Sho",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "VIOO",
+        "name": "Vanguard S&P Small-Cap 600 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AKRE",
+        "name": "Akre Focus ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GSIE",
+        "name": "Goldman Sachs ActiveBeta Intern",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FELG",
+        "name": "Fidelity Enhanced Large Cap Gro",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "RECS",
+        "name": "Columbia Research Enhanced Core",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "QTUM",
+        "name": "Defiance Quantum ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "SCHK",
+        "name": "Schwab 1000 Index ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SCHC",
+        "name": "Schwab International Small-Cap ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IVOO",
+        "name": "Vanguard S&P Mid-Cap 400 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "JHMM",
+        "name": "John Hancock Multifactor Mid Ca",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FXI",
+        "name": "iShares China Large-Cap ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EWC",
+        "name": "iShares MSCI Canada Index Fund",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "RSPT",
+        "name": "Invesco S&P 500 Equal Weight Te",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "FDN",
+        "name": "First Trust DJ Internet Index F",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "BKLC",
+        "name": "BNY Mellon US Large Cap Core Eq",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DSI",
+        "name": "iShares ESG MSCI KLD 400 ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EVTR",
+        "name": "Eaton Vance Total Return Bond E",
+        "exchange": "NYQ"
+      },
+      {
+        "symbol": "XMHQ",
+        "name": "Invesco S&P MidCap Quality ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EFAV",
+        "name": "iShares MSCI EAFE Min Vol Facto",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "KBWB",
+        "name": "Invesco KBW Bank ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "FESM",
+        "name": "Fidelity Enhanced Small Cap Cor",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SRLN",
+        "name": "State Street Blackstone Senior ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "XME",
+        "name": "State Street SPDR S&P Metals & ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SIL",
+        "name": "Global X Silver Miners ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SIVR",
+        "name": "abrdn Physical Silver Shares ET",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGCB",
+        "name": "Capital Group Core Bond ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGDG",
+        "name": "Capital Group Dividend Growers ",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "AIA",
+        "name": "iShares Asia 50 ETF",
+        "exchange": "NGM"
+      },
+      {
+        "symbol": "LVHI",
+        "name": "Franklin International Low Vola",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "SBIL",
+        "name": "Simplify Government Money Marke",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "CGMS",
+        "name": "Capital Group U.S. Multi-Sector",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "EMLC",
+        "name": "VanEck J. P. Morgan EM Local Cu",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "GNR",
+        "name": "State Street SPDR S&P Global Na",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "NLR",
+        "name": "VanEck Uranium and Nuclear ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "IYR",
+        "name": "iShares U.S. Real Estate ETF",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "DISV",
+        "name": "Dimensional International Small",
+        "exchange": "BTS"
+      },
+      {
+        "symbol": "EAGG",
+        "name": "iShares ESG Aware U.S. Aggregat",
+        "exchange": "PCX"
+      },
+      {
+        "symbol": "SJNK",
+        "name": "State Street SPDR Bloomberg Sho",
+        "exchange": "PCX"
+      }
+    ],
+    "KR": [
+      {
+        "symbol": "069500",
+        "name": "KODEX 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "360750",
+        "name": "TIGER 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "133690",
+        "name": "TIGER 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "102110",
+        "name": "TIGER 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "396500",
+        "name": "TIGER 반도체TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "379800",
+        "name": "KODEX 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "379810",
+        "name": "KODEX 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "278530",
+        "name": "KODEX 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0167A0",
+        "name": "SOL AI반도체TOP2플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "381180",
+        "name": "TIGER 미국필라델피아반도체나스닥",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "091160",
+        "name": "KODEX 반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498400",
+        "name": "KODEX 200타겟위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "310970",
+        "name": "TIGER MSCI Korea TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395270",
+        "name": "HANARO Fn K-반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395160",
+        "name": "KODEX AI반도체TOP2플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "148020",
+        "name": "RISE 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "229200",
+        "name": "KODEX 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "360200",
+        "name": "ACE 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "411060",
+        "name": "ACE KRX금현물",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "102780",
+        "name": "KODEX 삼성그룹",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "458730",
+        "name": "TIGER 미국배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "381170",
+        "name": "TIGER 미국테크TOP10 INDXX",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "367380",
+        "name": "ACE 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487240",
+        "name": "KODEX AI전력핵심설비",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139260",
+        "name": "TIGER 200 IT",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "278540",
+        "name": "KODEX MSCI Korea TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "426030",
+        "name": "TIME 미국나스닥100액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "456600",
+        "name": "TIME 글로벌AI인공지능액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "105190",
+        "name": "ACE 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472150",
+        "name": "TIGER 배당커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "161510",
+        "name": "PLUS 고배당주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "292150",
+        "name": "TIGER 코리아TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "284430",
+        "name": "KODEX 200미국채혼합50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "294400",
+        "name": "KIWOOM 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "486290",
+        "name": "TIGER 미국나스닥100타겟데일리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442580",
+        "name": "PLUS 글로벌HBM반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "446770",
+        "name": "ACE 글로벌반도체TOP4 Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487230",
+        "name": "KODEX 미국AI전력핵심인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "152100",
+        "name": "PLUS 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "441640",
+        "name": "KODEX 미국배당커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "466920",
+        "name": "SOL 조선TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "315930",
+        "name": "KODEX Top5PlusTR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "305720",
+        "name": "KODEX 2차전지산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0183J0",
+        "name": "TIGER 미국우주테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453850",
+        "name": "ACE 미국30년국채액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "368590",
+        "name": "RISE 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "091230",
+        "name": "TIGER 반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "379780",
+        "name": "RISE 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "390390",
+        "name": "KODEX 미국반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "329200",
+        "name": "TIGER 리츠부동산인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "157450",
+        "name": "TIGER 단기통안채",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469150",
+        "name": "ACE AI반도체TOP3+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "497570",
+        "name": "TIGER 미국필라델피아AI반도체나스닥",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "232080",
+        "name": "TIGER 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449450",
+        "name": "PLUS K방산",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0072R0",
+        "name": "TIGER KRX금현물",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494890",
+        "name": "KODEX 200액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438080",
+        "name": "ACE 미국S&P500미국채혼합50액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "226490",
+        "name": "KODEX 코스피",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "445290",
+        "name": "KODEX 로봇액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "237350",
+        "name": "KODEX 코스피100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "455850",
+        "name": "SOL AI반도체소부장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495050",
+        "name": "RISE 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0117V0",
+        "name": "TIGER 코리아AI전력기기TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "446720",
+        "name": "SOL 미국배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "465580",
+        "name": "ACE 미국빅테크TOP7 Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0117L0",
+        "name": "KODEX 26-12 금융채(AA-이상)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371460",
+        "name": "TIGER 차이나전기차SOLACTIVE",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "295040",
+        "name": "SOL 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0139F0",
+        "name": "TIGER 12월자동연장금융채(AA-이상)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494300",
+        "name": "KODEX 미국나스닥100데일리커버드콜OTM",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "402970",
+        "name": "ACE 미국배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438100",
+        "name": "ACE 미국나스닥100미국채혼합50액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "457480",
+        "name": "ACE 테슬라밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449180",
+        "name": "KODEX 미국S&P500(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475720",
+        "name": "RISE 200위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "367760",
+        "name": "RISE 네트워크인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "441800",
+        "name": "TIME Korea플러스배당액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "069660",
+        "name": "KIWOOM 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0177R0",
+        "name": "TIGER 반도체TOP10커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "305540",
+        "name": "TIGER 2차전지테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498410",
+        "name": "KODEX 금융고배당TOP10타겟위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "102970",
+        "name": "KODEX 증권",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476550",
+        "name": "TIGER 미국30년국채커버드콜액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495850",
+        "name": "KODEX 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491010",
+        "name": "TIGER 글로벌AI전력인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "466940",
+        "name": "TIGER 은행고배당플러스TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0167B0",
+        "name": "SOL 200타겟위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "481060",
+        "name": "KODEX 미국30년국채타겟커버드콜(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "434730",
+        "name": "HANARO 원자력iSelect",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490590",
+        "name": "RISE 미국AI밸류체인데일리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0025N0",
+        "name": "TIGER TDF2045 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "138540",
+        "name": "TIGER 현대차그룹플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "458760",
+        "name": "TIGER 미국배당다우존스타겟커버드콜2호",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0015B0",
+        "name": "KoAct 미국나스닥성장기업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0061Z0",
+        "name": "RISE 단기특수은행채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "466950",
+        "name": "TIGER 글로벌AI액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "290130",
+        "name": "RISE ESG사회책임투자",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0127P0",
+        "name": "ACE 미국대형성장주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0101N0",
+        "name": "RISE AI전력인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463250",
+        "name": "TIGER K방산&우주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371160",
+        "name": "TIGER 차이나항셍테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "484790",
+        "name": "KODEX 미국30년국채액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "434060",
+        "name": "KODEX TDF2050액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "482730",
+        "name": "TIGER 미국S&P500타겟데일리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494670",
+        "name": "TIGER 조선TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "315960",
+        "name": "RISE 대형고배당10TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "364980",
+        "name": "TIGER 2차전지TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "314250",
+        "name": "KODEX 미국빅테크10(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "444200",
+        "name": "SOL 코리아메가테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "396520",
+        "name": "TIGER 차이나반도체FACTSET",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449190",
+        "name": "KODEX 미국나스닥100(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "293180",
+        "name": "HANARO 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "496080",
+        "name": "TIGER 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489250",
+        "name": "KODEX 미국배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0148J0",
+        "name": "TIGER 코리아휴머노이드로봇산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0091P0",
+        "name": "TIGER 코리아원자력",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0190C0",
+        "name": "RISE 현대차고정피지컬AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "361580",
+        "name": "RISE 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0105E0",
+        "name": "SOL 코리아고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "114260",
+        "name": "KODEX 국고채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "365780",
+        "name": "ACE 국고채10년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "251350",
+        "name": "KODEX MSCI선진국",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0163Y0",
+        "name": "KoAct 코스닥액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0167Z0",
+        "name": "KODEX 미국우주항공",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "462010",
+        "name": "TIGER 2차전지소재Fn",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "277630",
+        "name": "TIGER 코스피",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0023A0",
+        "name": "SOL 미국양자컴퓨팅TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491620",
+        "name": "RISE 미국테크100데일리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471230",
+        "name": "KODEX 국고채10년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483280",
+        "name": "KODEX 미국AI테크TOP10타겟커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476800",
+        "name": "KODEX 한국부동산리츠인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "451060",
+        "name": "1Q 200액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "462900",
+        "name": "KoAct 바이오헬스케어액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0131V0",
+        "name": "1Q 미국우주항공테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490490",
+        "name": "SOL 미국배당미국채혼합50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0173Y0",
+        "name": "KODEX 미국AI광통신네트워크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "091180",
+        "name": "KODEX 자동차",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "439870",
+        "name": "KODEX 국고채30년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "474220",
+        "name": "TIGER 미국테크TOP10타겟커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385720",
+        "name": "TIME 코스피액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0043Y0",
+        "name": "TIME 차이나AI테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "091170",
+        "name": "KODEX 은행",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "448290",
+        "name": "TIGER 미국S&P500(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "241180",
+        "name": "TIGER 일본니케이225",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "458250",
+        "name": "TIGER 미국30년국채스트립액티브(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "474590",
+        "name": "WON 반도체밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "148070",
+        "name": "KIWOOM 국고채10년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471990",
+        "name": "KODEX AI반도체핵심장비",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0080G0",
+        "name": "KODEX 방산TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0060H0",
+        "name": "TIGER 토탈월드스탁액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "426020",
+        "name": "TIME 미국S&P500액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "310960",
+        "name": "TIGER 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0210A0",
+        "name": "ACE K반도체TOP2+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453810",
+        "name": "KODEX 인도Nifty50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0144L0",
+        "name": "KODEX 미국성장커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "448300",
+        "name": "TIGER 미국나스닥100(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483320",
+        "name": "ACE 엔비디아밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469070",
+        "name": "RISE AI&로봇",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0052D0",
+        "name": "TIGER 코리아배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "484880",
+        "name": "SOL 금융지주플러스고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "270810",
+        "name": "RISE 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0026S0",
+        "name": "1Q 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0053L0",
+        "name": "TIGER 차이나휴머노이드로봇",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "466930",
+        "name": "SOL 자동차TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0046A0",
+        "name": "TIGER 미국초단기(3개월이하)국채",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0162Y0",
+        "name": "TIME 코스닥액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453870",
+        "name": "TIGER 인도니프티50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "279530",
+        "name": "KODEX 고배당주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0038A0",
+        "name": "KODEX 미국휴머노이드로봇",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471040",
+        "name": "KoAct 글로벌AI&로봇액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "307520",
+        "name": "TIGER 지주회사",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "441680",
+        "name": "TIGER 미국나스닥100커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476760",
+        "name": "ACE 미국30년국채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495230",
+        "name": "KoAct 코리아밸류업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "473330",
+        "name": "SOL 미국30년국채커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385510",
+        "name": "KODEX 신재생에너지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "363580",
+        "name": "KODEX 200IT TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471780",
+        "name": "TIGER 코리아테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "245710",
+        "name": "ACE 베트남VN30(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "157500",
+        "name": "TIGER 증권",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "485540",
+        "name": "KODEX 미국AI테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0052S0",
+        "name": "1Q 미국S&P500미국채혼합50액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139230",
+        "name": "TIGER 200 중공업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442570",
+        "name": "RISE TDF2050액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "478150",
+        "name": "TIME 글로벌우주테크&방산액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "423170",
+        "name": "SOL 글로벌AI반도체탑픽액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "283580",
+        "name": "KODEX 차이나CSI300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "388420",
+        "name": "RISE 비메모리반도체액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475300",
+        "name": "SOL 반도체전공정",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0111P0",
+        "name": "1Q 미국나스닥100미국채혼합50액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461490",
+        "name": "RISE 글로벌자산배분액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "414780",
+        "name": "TIGER 차이나과창판STAR50(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483340",
+        "name": "ACE 구글밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433330",
+        "name": "SOL 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "481190",
+        "name": "SOL 미국테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "213610",
+        "name": "KODEX 삼성그룹밸류",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "486450",
+        "name": "SOL 미국AI전력인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495060",
+        "name": "TIME 코리아밸류업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "364970",
+        "name": "TIGER 바이오TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "196230",
+        "name": "RISE 단기통안채",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489030",
+        "name": "PLUS 고배당주위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463050",
+        "name": "TIME K바이오액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0104N0",
+        "name": "TIGER 200타겟위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "228790",
+        "name": "TIGER 화장품",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0008S0",
+        "name": "TIGER 미국배당다우존스타겟데일리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0182R0",
+        "name": "1Q K반도체TOP2+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "493810",
+        "name": "TIGER 미국AI빅테크10타겟데일리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442320",
+        "name": "RISE 글로벌원자력",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498270",
+        "name": "KIWOOM 미국양자컴퓨팅",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "302190",
+        "name": "TIGER 중장기국채",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "190620",
+        "name": "ACE 단기통안채",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "332930",
+        "name": "HANARO 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "302450",
+        "name": "RISE 코스피",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0151S0",
+        "name": "KODEX 미국AI반도체TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0047A0",
+        "name": "TIGER 차이나테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433500",
+        "name": "ACE 원자력TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266160",
+        "name": "RISE 고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "394670",
+        "name": "TIGER 글로벌리튬&2차전지SOLACTIVE(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "329650",
+        "name": "KODEX TRF3070",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0089D0",
+        "name": "KODEX 금융고배당TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495550",
+        "name": "SOL 코리아밸류업TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0180V0",
+        "name": "ACE 미국우주테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "244580",
+        "name": "KODEX 바이오",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490090",
+        "name": "TIGER 미국AI빅테크10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "122090",
+        "name": "PLUS 코스피50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0005G0",
+        "name": "IBK K-AI반도체코어테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494220",
+        "name": "UNICORN SK하이닉스밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0098F0",
+        "name": "KODEX 원자력SMR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "337160",
+        "name": "KODEX 200ESG",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0048K0",
+        "name": "KODEX 차이나휴머노이드로봇",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0069M0",
+        "name": "1Q 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "422420",
+        "name": "RISE 2차전지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0204D0",
+        "name": "KODEX 현대차로보틱스밸류체인TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472160",
+        "name": "TIGER 미국테크TOP10 INDXX(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "473460",
+        "name": "KODEX 미국서학개미",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "452360",
+        "name": "SOL 미국배당다우존스(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "421320",
+        "name": "PLUS 우주항공",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "117700",
+        "name": "KODEX 건설",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0115D0",
+        "name": "KODEX 조선TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "480040",
+        "name": "ACE 미국반도체데일리타겟커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0151P0",
+        "name": "RISE 코리아전략산업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0093A0",
+        "name": "RISE AI반도체TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "403790",
+        "name": "MIDAS 코스피액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0162M0",
+        "name": "KODEX 금융채1~2년(AA-이상)PLUS액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "332500",
+        "name": "ACE 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0190G0",
+        "name": "KODEX 반도체타겟위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472870",
+        "name": "RISE 미국30년국채엔화노출(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0005A0",
+        "name": "KODEX 미국S&P500데일리커버드콜OTM",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0051G0",
+        "name": "SOL 미국원자력SMR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "200250",
+        "name": "KIWOOM 인도Nifty50(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0040X0",
+        "name": "SOL 팔란티어미국채커버드콜혼합",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0091C0",
+        "name": "KODEX 미국10년국채액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0082V0",
+        "name": "KODEX TDF2060액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491820",
+        "name": "HANARO 전력설비투자",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "160580",
+        "name": "TIGER 구리실물",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "429000",
+        "name": "TIGER 미국S&P500배당귀족",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433980",
+        "name": "KODEX TDF2040액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "138520",
+        "name": "TIGER 삼성그룹",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463290",
+        "name": "1Q 단기금융채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0181B0",
+        "name": "HANARO 미국AI메모리반도체TOP4+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "152870",
+        "name": "파워 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483290",
+        "name": "KODEX 미국배당다우존스타겟커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0064K0",
+        "name": "KODEX 금액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "325010",
+        "name": "KODEX 성장주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0153K0",
+        "name": "KODEX 주주환원고배당주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0176E0",
+        "name": "RISE 미국AI전력인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461950",
+        "name": "KODEX 2차전지핵심소재10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "480030",
+        "name": "ACE 미국500데일리타겟커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495330",
+        "name": "1Q 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0168K0",
+        "name": "TIGER 기술이전바이오액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "451530",
+        "name": "TIGER 국고채30년스트립액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "480020",
+        "name": "ACE 미국빅테크7+데일리타겟커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "192090",
+        "name": "TIGER 차이나CSI300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "143860",
+        "name": "TIGER 헬스케어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "272560",
+        "name": "RISE 단기국공채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "245340",
+        "name": "TIGER 미국다우존스30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0074K0",
+        "name": "KoAct K수출핵심기업TOP30액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0127M0",
+        "name": "ACE 미국대형가치주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0131W0",
+        "name": "1Q 단기특수은행채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0094M0",
+        "name": "RISE 코리아밸류업위클리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490600",
+        "name": "RISE 미국배당100데일리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0174B0",
+        "name": "KoAct 글로벌AI메모리반도체액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0123G0",
+        "name": "TIGER 미국AI전력SMR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471760",
+        "name": "TIGER AI반도체핵심공정",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494330",
+        "name": "ACE 라이프자산주주가치액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "354500",
+        "name": "ACE 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "328370",
+        "name": "PLUS 코스피TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "411420",
+        "name": "KODEX 미국나스닥AI테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0005D0",
+        "name": "SOL 전고체배터리&실리콘음극재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464310",
+        "name": "TIGER 글로벌AI&로보틱스 INDXX",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "332940",
+        "name": "HANARO MSCI Korea TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "481180",
+        "name": "SOL 미국AI소프트웨어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139220",
+        "name": "TIGER 200 건설",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "448100",
+        "name": "WON 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266370",
+        "name": "KODEX IT",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "326240",
+        "name": "RISE IT플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0036R0",
+        "name": "RISE 미국휴머노이드로봇",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "182480",
+        "name": "TIGER 미국MSCI리츠(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0041E0",
+        "name": "KODEX 미국S&P500액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464930",
+        "name": "TIGER 글로벌혁신블루칩TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "372330",
+        "name": "KODEX 차이나항셍테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "377990",
+        "name": "TIGER Fn신재생에너지",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476030",
+        "name": "SOL 미국나스닥100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "367770",
+        "name": "RISE 수소경제테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0092B0",
+        "name": "SOL 한국원자력SMR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "325020",
+        "name": "KODEX 배당가치",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "168580",
+        "name": "ACE 중국본토CSI300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "399110",
+        "name": "SOL 미국S&P500ESG",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "394660",
+        "name": "TIGER 글로벌자율주행&전기차SOLACTIVE",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0199C0",
+        "name": "ACE 고배당주Plus커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "309230",
+        "name": "ACE 미국WideMoat동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "496090",
+        "name": "KIWOOM 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "114820",
+        "name": "TIGER 국채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "488500",
+        "name": "TIGER 미국S&P500동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0035T0",
+        "name": "PLUS 글로벌휴머노이드로봇액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0007N0",
+        "name": "아이엠에셋 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0000J0",
+        "name": "PLUS 한화그룹주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463680",
+        "name": "KODEX 미국S&P500테크놀로지",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "457990",
+        "name": "PLUS 태양광&ESS",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476850",
+        "name": "KoAct 배당성장액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "454320",
+        "name": "HANARO CAPEX설비투자iSelect",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "486240",
+        "name": "DAISHIN343 AI반도체&인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0162L0",
+        "name": "KODEX 차이나AI반도체TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "468380",
+        "name": "KODEX iShares미국하이일드액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "455860",
+        "name": "SOL 2차전지소부장Fn",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0085P0",
+        "name": "ACE 미국10년국채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475050",
+        "name": "ACE KPOP포커스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438570",
+        "name": "SOL 국고채10년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0193M0",
+        "name": "BNK 27-12 특수채(AAA이상)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "298770",
+        "name": "KODEX 한국대만IT프리미어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495040",
+        "name": "PLUS 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "479620",
+        "name": "SOL 미국AI반도체칩메이커",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449770",
+        "name": "KIWOOM 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0177X0",
+        "name": "ACE K휴머노이드로봇산업TOP2+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "203780",
+        "name": "TIGER 미국나스닥바이오",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469170",
+        "name": "ACE 포스코그룹포커스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "108450",
+        "name": "ACE 삼성그룹섹터가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "465780",
+        "name": "마이티 26-09 특수채(AAA)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "195980",
+        "name": "PLUS 신흥국MSCI(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "114100",
+        "name": "RISE 국고채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "485690",
+        "name": "RISE 미국AI밸류체인TOP3Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "292190",
+        "name": "KODEX KRX300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0142D0",
+        "name": "TIGER 미국AI데이터센터TOP4Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490480",
+        "name": "SOL K방산",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "481430",
+        "name": "RISE 국고채10년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "412770",
+        "name": "TIGER 글로벌AI플랫폼액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "211900",
+        "name": "KODEX 코리아배당성장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "434960",
+        "name": "DAISHIN343 K200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "460960",
+        "name": "ACE 글로벌인컴TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433970",
+        "name": "KODEX TDF2030액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "337140",
+        "name": "KODEX 코스피대형주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "329670",
+        "name": "KODEX TRF7030",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "138530",
+        "name": "TIGER LG그룹플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495750",
+        "name": "HANARO 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0066W0",
+        "name": "SOL 국제금",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0209D0",
+        "name": "KODEX 전고체배터리ESS TOP2플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "359210",
+        "name": "KODEX 코스피TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "329660",
+        "name": "KODEX TRF5050",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "269540",
+        "name": "PLUS 미국S&P500(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469060",
+        "name": "RISE 미국반도체NYSE",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453080",
+        "name": "KIWOOM 미국나스닥100(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0137V0",
+        "name": "KIWOOM 미국S&P500모멘텀",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0049M0",
+        "name": "ACE 미국배당퀄리티+커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0113D0",
+        "name": "TIME 글로벌탑픽액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "444490",
+        "name": "WON 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "365040",
+        "name": "TIGER AI코리아그로스액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0181L0",
+        "name": "SOL 미국우주항공TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453330",
+        "name": "RISE 미국S&P500(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461460",
+        "name": "PLUS 국고채10년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "277640",
+        "name": "TIGER 코스피대형주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0098N0",
+        "name": "PLUS 자사주매입고배당주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0190Y0",
+        "name": "TIGER 구글밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438560",
+        "name": "SOL 국고채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "228810",
+        "name": "TIGER 미디어컨텐츠",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "441540",
+        "name": "HANARO Fn조선해운",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "364960",
+        "name": "TIGER BBIG",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475310",
+        "name": "SOL 반도체후공정",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0040S0",
+        "name": "HANARO 글로벌피지컬AI액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "157490",
+        "name": "TIGER 소프트웨어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0018C0",
+        "name": "PLUS 고배당주위클리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491700",
+        "name": "HK 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0022T0",
+        "name": "SOL 국제금커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "211560",
+        "name": "TIGER 배당성장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487130",
+        "name": "KoAct AI인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0102A0",
+        "name": "TIGER 미국AI소프트웨어TOP4Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453950",
+        "name": "TIGER TSMC파운드리밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "210780",
+        "name": "TIGER 코스피고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0057H0",
+        "name": "PLUS 미국S&P500미국채혼합50액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "272910",
+        "name": "ACE 중장기국공채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "440910",
+        "name": "WON 미국우주항공방산",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "228800",
+        "name": "TIGER 여행레저",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266420",
+        "name": "KODEX 헬스케어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "428510",
+        "name": "KODEX 차이나AI테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0080X0",
+        "name": "SOL 미국S&P500미국채혼합50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0115E0",
+        "name": "KODEX 코리아소버린AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0166S0",
+        "name": "PLUS K제조업핵심기업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0111J0",
+        "name": "HANARO 증권고배당TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0185L0",
+        "name": "TIME 글로벌휴머노이드로봇산업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475350",
+        "name": "RISE 버크셔포트폴리오TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "495940",
+        "name": "RISE 미국AI테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0141S0",
+        "name": "SOL 조선기자재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0008T0",
+        "name": "SOL 화장품TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "458750",
+        "name": "TIGER 미국배당다우존스타겟커버드콜1호",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "473640",
+        "name": "HANARO 글로벌금채굴기업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0000D0",
+        "name": "TIGER 엔비디아미국채커버드콜밸런스(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "480310",
+        "name": "TIGER 글로벌온디바이스AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476750",
+        "name": "ACE 미국30년국채엔화노출액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "479730",
+        "name": "TIGER 인도빌리언컨슈머",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0098Z0",
+        "name": "FOCUS 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433880",
+        "name": "PLUS TDF2060액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0089C0",
+        "name": "KODEX 미국S&P500변동성확대시커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0118Z0",
+        "name": "ACE 미국AI테크핵심산업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453640",
+        "name": "KODEX 미국S&P500헬스케어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0118S0",
+        "name": "SOL 미국넥스트테크TOP10액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385590",
+        "name": "ACE ESG액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "261070",
+        "name": "TIGER 코스닥150바이오테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "455660",
+        "name": "ACE 미국하이일드액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0123S0",
+        "name": "HANARO 26-12 은행채(AA+이상)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "275980",
+        "name": "TIGER 글로벌4차산업혁신기술(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "465330",
+        "name": "RISE 2차전지TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "401470",
+        "name": "KODEX 메타버스액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0000Z0",
+        "name": "RISE 바이오TOP10액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491220",
+        "name": "PLUS 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "275300",
+        "name": "KODEX 우량주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "256750",
+        "name": "KODEX 차이나심천ChiNext(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0036D0",
+        "name": "TIME 미국배당다우존스액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0132H0",
+        "name": "KODEX 미국원자력SMR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442260",
+        "name": "마이티 다이나믹퀀트액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0172V0",
+        "name": "1Q 은액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "114470",
+        "name": "KIWOOM 국고채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "150460",
+        "name": "TIGER 중국소비테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "140950",
+        "name": "파워 코스피100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "445150",
+        "name": "KODEX 친환경조선해운액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0020H0",
+        "name": "KoAct 글로벌양자컴퓨팅액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0046Y0",
+        "name": "ACE 미국배당퀄리티",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0041D0",
+        "name": "KODEX 미국AI소프트웨어TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "100910",
+        "name": "KIWOOM KRX100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "200030",
+        "name": "KODEX 미국S&P500산업재(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0139P0",
+        "name": "ACE 고배당주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494840",
+        "name": "TIGER 미국방산TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461340",
+        "name": "HANARO 글로벌생성형AI액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "140700",
+        "name": "KODEX 보험",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0021E0",
+        "name": "ACE TDF2050액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476260",
+        "name": "HANARO 반도체핵심공정주도주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "276990",
+        "name": "KODEX 글로벌로봇(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "287180",
+        "name": "PLUS 미국나스닥테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "375770",
+        "name": "KODEX 탄소효율그린뉴딜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469790",
+        "name": "KIWOOM 코리아테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472830",
+        "name": "RISE 미국30년국채커버드콜(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371470",
+        "name": "TIGER 차이나바이오테크SOLACTIVE",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "101280",
+        "name": "KODEX 일본TOPIX100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "305050",
+        "name": "ACE 코스피",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475070",
+        "name": "KoAct 글로벌친환경전력인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "401170",
+        "name": "RISE 메타버스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0086B0",
+        "name": "TIGER 리츠부동산인프라TOP10액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442090",
+        "name": "에셋플러스 코리아대장장이액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "336160",
+        "name": "RISE 금융채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472840",
+        "name": "IBK 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449690",
+        "name": "TIGER 한중반도체(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "473590",
+        "name": "ACE 미국주식베스트셀러",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442560",
+        "name": "RISE TDF2040액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0007G0",
+        "name": "PLUS 글로벌원자력밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453650",
+        "name": "KODEX 미국S&P500금융",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "407830",
+        "name": "에셋플러스 글로벌플랫폼액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "448570",
+        "name": "FOCUS AI코리아액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0178H0",
+        "name": "IBK 미국AI TOP10국채혼합50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "447430",
+        "name": "ACE 주주환원가치주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "473490",
+        "name": "KIWOOM 글로벌AI반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "218420",
+        "name": "KODEX 미국S&P500에너지(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464470",
+        "name": "PLUS 미국채30년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "147970",
+        "name": "TIGER 모멘텀",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491830",
+        "name": "TIGER 미국AI반도체팹리스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "415920",
+        "name": "PLUS 글로벌희토류&전략자원생산기업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "418670",
+        "name": "TIGER 글로벌AI사이버보안",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0189B0",
+        "name": "TIGER 은액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0210E0",
+        "name": "PLUS 200커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "322410",
+        "name": "HANARO K고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "400970",
+        "name": "TIGER Fn메타버스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "153270",
+        "name": "KIWOOM 코스피100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "429760",
+        "name": "PLUS 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "275280",
+        "name": "KODEX 모멘텀주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0112X0",
+        "name": "마이티 200TR",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498860",
+        "name": "RISE 코리아금융고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0191M0",
+        "name": "마이티 5월만기자동연장특수채(AAA)액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139280",
+        "name": "TIGER 경기방어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494340",
+        "name": "ACE 글로벌AI맞춤형반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "316670",
+        "name": "KIWOOM 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "238720",
+        "name": "ACE 일본Nikkei225(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0154F0",
+        "name": "WON 초대형IB&금융지주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476690",
+        "name": "TIGER 글로벌비만치료제TOP2Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "465660",
+        "name": "TIGER 일본반도체FACTSET",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "174360",
+        "name": "RISE 중국본토대형주CSI100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "352540",
+        "name": "KODEX 일본부동산리츠(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "105780",
+        "name": "RISE 5대그룹주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0023B0",
+        "name": "PLUS 미국양자컴퓨팅TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "459560",
+        "name": "KODEX 테슬라밸류체인FactSet",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "450190",
+        "name": "KODEX 한중반도체(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0083S0",
+        "name": "1Q 미국메디컬AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "380340",
+        "name": "ACE 코리아AI테크핵심산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395170",
+        "name": "KODEX Top10동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483420",
+        "name": "ACE 애플밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "446690",
+        "name": "KODEX 아시아AI반도체exChina액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0067V0",
+        "name": "TIGER 차이나글로벌리더스TOP3+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "365000",
+        "name": "TIGER 인터넷TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "261140",
+        "name": "TIGER 우선주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476070",
+        "name": "KODEX 글로벌비만치료제TOP2 Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "104530",
+        "name": "KIWOOM 코리아고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "415340",
+        "name": "KODEX 차이나과창판STAR50(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "156080",
+        "name": "KODEX MSCI Korea",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "496770",
+        "name": "PLUS 글로벌방산",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385520",
+        "name": "KODEX 자율주행액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "276970",
+        "name": "KODEX 미국S&P500배당귀족커버드콜(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0085N0",
+        "name": "ACE 미국10년국채액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469050",
+        "name": "RISE 미국반도체NYSE(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "352560",
+        "name": "KODEX 미국부동산리츠(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "322400",
+        "name": "HANARO e커머스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "275290",
+        "name": "KODEX 가치주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "387270",
+        "name": "TIGER 글로벌이노베이션액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0166N0",
+        "name": "PLUS 코스닥150액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491090",
+        "name": "KODEX 미국테크TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "195930",
+        "name": "TIGER 유로스탁스50(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "426150",
+        "name": "WON 대한민국국고채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "450910",
+        "name": "SOL 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "099140",
+        "name": "KODEX 차이나H",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0164G0",
+        "name": "RISE 차이나AI반도체TOP4Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464920",
+        "name": "PLUS 일본반도체소부장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "474800",
+        "name": "KIWOOM 미국원유에너지기업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "276650",
+        "name": "RISE 글로벌테크놀로지(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395290",
+        "name": "HANARO Fn K-POP&미디어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0204S0",
+        "name": "TIGER 코스닥액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0155M0",
+        "name": "ACE 미국SMR원자력TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "459750",
+        "name": "RISE 글로벌주식분산액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0013R0",
+        "name": "RISE 테슬라미국채타겟커버드콜혼합(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494410",
+        "name": "PLUS 미국S&P500성장주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0138T0",
+        "name": "RISE 미국S&P500데일리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "261060",
+        "name": "TIGER 코스닥150IT",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139270",
+        "name": "TIGER 200 금융",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266360",
+        "name": "KODEX K콘텐츠",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "256440",
+        "name": "ACE MSCI인도네시아(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "245350",
+        "name": "TIGER 유로스탁스배당30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "248270",
+        "name": "TIGER S&P글로벌헬스케어(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449780",
+        "name": "KIWOOM 미국S&P500(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "122260",
+        "name": "KIWOOM 통안채1년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "459790",
+        "name": "KIWOOM 미국성장기업30액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "192720",
+        "name": "파워 고배당저변동성",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0107F0",
+        "name": "KIWOOM 미국고배당&AI테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "145850",
+        "name": "TREX 펀더멘탈 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "419430",
+        "name": "KODEX 차이나2차전지MSCI(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0155N0",
+        "name": "HANARO K휴머노이드테마TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "496120",
+        "name": "ACE 코리아밸류업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "227540",
+        "name": "TIGER 200 헬스케어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0089B0",
+        "name": "PLUS 미국나스닥100미국채혼합50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "475380",
+        "name": "RISE 글로벌리얼티인컴",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0137W0",
+        "name": "KIWOOM 미국S&P500&GOLD",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "269420",
+        "name": "KODEX S&P글로벌인프라(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0152E0",
+        "name": "SOL 배당성향탑픽액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "469160",
+        "name": "ACE 일본반도체",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489290",
+        "name": "WON 미국빌리어네어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "223190",
+        "name": "KODEX 200가치저변동",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "414270",
+        "name": "ACE 글로벌자율주행액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0192T0",
+        "name": "SOL 코스닥TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "292500",
+        "name": "SOL KRX300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "477730",
+        "name": "KODEX 인도타타그룹",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0093D0",
+        "name": "KoAct 팔란티어밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0065G0",
+        "name": "KODEX 차이나테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "159800",
+        "name": "마이티 코스피100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "277540",
+        "name": "ACE 아시아TOP50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "292160",
+        "name": "TIGER KRX300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "289480",
+        "name": "TIGER 200커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "388280",
+        "name": "RISE K엔터&여행레저",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "440340",
+        "name": "TIGER 글로벌멀티에셋TIF액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0193G0",
+        "name": "KoAct 코스피액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "364690",
+        "name": "KODEX 혁신기술테마액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "245360",
+        "name": "TIGER 차이나HSCEI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "411540",
+        "name": "SOL 200 Top10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "493420",
+        "name": "SOL 미국배당다우존스2호",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0186L0",
+        "name": "KoAct 미국로봇피지컬AI액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0097L0",
+        "name": "KIWOOM 한국고배당&미국AI테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0150K0",
+        "name": "KoAct 수소전력ESS인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464600",
+        "name": "SOL 자동차소부장Fn",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0207Z0",
+        "name": "KIWOOM 미국우주데이터센터인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "185680",
+        "name": "KODEX 미국S&P바이오(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "300950",
+        "name": "KODEX 게임산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461600",
+        "name": "SOL 미국30년국채액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "289250",
+        "name": "TIGER MSCI KOREA ESG유니버설",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0047R0",
+        "name": "RISE 팔란티어고정테크100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "381560",
+        "name": "HANARO Fn전기&수소차",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483570",
+        "name": "KCGI 미국S&P500 TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0190M0",
+        "name": "KIWOOM 미국AI테크하이베타",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0115C0",
+        "name": "RISE 미국고배당다우존스TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "479850",
+        "name": "HANARO K-뷰티",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "108590",
+        "name": "TREX 200",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "228820",
+        "name": "TIGER KTOP30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139250",
+        "name": "TIGER 200 에너지화학",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "376410",
+        "name": "TIGER 탄소효율그린뉴딜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "229720",
+        "name": "KODEX KTOP30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "117460",
+        "name": "KODEX 에너지화학",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433220",
+        "name": "에셋플러스 글로벌대장장이액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "367740",
+        "name": "HANARO Fn5G산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "375760",
+        "name": "HANARO 탄소효율그린뉴딜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0177A0",
+        "name": "WON 두산그룹포커스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "481340",
+        "name": "RISE 미국30년국채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0144M0",
+        "name": "KODEX 미국드론UAM TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "337120",
+        "name": "KODEX 멀티팩터",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "497780",
+        "name": "KoAct 미국천연가스인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461450",
+        "name": "KODEX 코스닥글로벌",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "368190",
+        "name": "HANARO Fn K-뉴딜디지털플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0051A0",
+        "name": "KoAct 브로드컴밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463300",
+        "name": "RISE 중국본토CSI300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0103T0",
+        "name": "1Q K소버린AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0047P0",
+        "name": "RISE 테슬라고정테크100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "416090",
+        "name": "ACE 중국과창판STAR50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "364990",
+        "name": "TIGER 게임TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "117680",
+        "name": "KODEX 철강",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "280930",
+        "name": "KODEX 미국러셀2000(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "195970",
+        "name": "PLUS 선진국MSCI(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "289040",
+        "name": "KODEX MSCI KOREA ESG유니버설",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "404260",
+        "name": "KODEX 기후변화솔루션",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "471460",
+        "name": "KIWOOM 국고채30년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "407310",
+        "name": "HANARO 200 TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0026E0",
+        "name": "KODEX 미국S&P500버퍼3월액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "091220",
+        "name": "TIGER 은행",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "300640",
+        "name": "RISE 게임테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "419650",
+        "name": "PLUS 글로벌수소&차세대연료전지",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0153X0",
+        "name": "PLUS 미국고배당주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "169950",
+        "name": "KODEX 차이나A50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "391670",
+        "name": "HK 베스트일레븐액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "442550",
+        "name": "RISE TDF2030액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "304760",
+        "name": "HANARO KRX300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "445690",
+        "name": "BNK 주주가치액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "304770",
+        "name": "HANARO 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "417630",
+        "name": "TIGER KEDI혁신기업ESG30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489000",
+        "name": "PLUS 일본엔화초단기국채(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "457690",
+        "name": "KODEX 33-06 국고채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "226980",
+        "name": "KODEX 200 중소형",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487950",
+        "name": "KODEX 대만테크고배당다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "415760",
+        "name": "SOL 차이나육성산업액티브(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0127R0",
+        "name": "RISE 미국AI클라우드인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "183710",
+        "name": "RISE 주식혼합",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0018Z0",
+        "name": "RISE 미국양자컴퓨팅",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "227830",
+        "name": "PLUS 코스피",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "284980",
+        "name": "RISE 200금융",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "292050",
+        "name": "RISE KRX300",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "468370",
+        "name": "KODEX iShares미국인플레이션국채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "289260",
+        "name": "TIGER MSCI KOREA ESG리더스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371450",
+        "name": "TIGER 글로벌클라우드컴퓨팅INDXX",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "445910",
+        "name": "TIGER MKF배당귀족",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0104P0",
+        "name": "TIGER 코리아배당다우존스위클리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "488290",
+        "name": "MIDAS 일본테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "460660",
+        "name": "RISE 미국S&P배당킹",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "474920",
+        "name": "에셋플러스 차이나일등기업포커스10액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "337150",
+        "name": "KODEX 200exTOP",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453630",
+        "name": "KODEX 미국S&P500필수소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "477490",
+        "name": "에셋플러스 글로벌일등기업포커스10액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "404120",
+        "name": "TIME K신재생에너지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "213630",
+        "name": "PLUS 미국다우존스고배당주(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385600",
+        "name": "ACE 2차전지&친환경차액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461900",
+        "name": "PLUS 미국테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "413930",
+        "name": "WON AI ESG액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494420",
+        "name": "PLUS 미국배당증가성장주데일리커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "396510",
+        "name": "TIGER 차이나클린에너지SOLACTIVE",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0209Z0",
+        "name": "ACE 코리아AI전력TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "102960",
+        "name": "KODEX 기계장비",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "291130",
+        "name": "ACE MSCI멕시코(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483330",
+        "name": "ACE 마이크로소프트밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "387280",
+        "name": "TIGER 퓨처모빌리티액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "195920",
+        "name": "TIGER 일본TOPIX(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "131890",
+        "name": "ACE 삼성그룹동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0105D0",
+        "name": "SOL 한국AI소프트웨어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "432840",
+        "name": "HANARO 미국S&P500",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0088N0",
+        "name": "WON K-글로벌수급상위",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0028X0",
+        "name": "KODEX 미국금융테크액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "104520",
+        "name": "KIWOOM 블루칩",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "244620",
+        "name": "KODEX 모멘텀Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "379790",
+        "name": "RISE 유로스탁스50(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0000H0",
+        "name": "KODEX 인도Nifty미드캡100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "417450",
+        "name": "RISE 글로벌수소경제",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "219390",
+        "name": "RISE 미국S&P원유생산기업(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "491510",
+        "name": "파워 K-주주가치액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "280320",
+        "name": "ACE 미국IT인터넷(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "419420",
+        "name": "KODEX 미국클린에너지나스닥",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "276000",
+        "name": "TIGER 글로벌자원생산기업(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "265690",
+        "name": "ACE 러시아MSCI(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "404650",
+        "name": "SOL KRX기후변화솔루션",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0021D0",
+        "name": "ACE TDF2030액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "464610",
+        "name": "SOL 의료기기소부장Fn",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "472720",
+        "name": "TRUSTON 주주가치액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0153P0",
+        "name": "ACE 리츠부동산인프라액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "252650",
+        "name": "KODEX 200동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "234310",
+        "name": "RISE V&S셀렉트밸류",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "496130",
+        "name": "TRUSTON 코리아밸류업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "114460",
+        "name": "ACE 국고채3년",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "280920",
+        "name": "PLUS 주도업종",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395760",
+        "name": "PLUS ESG성장주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266390",
+        "name": "KODEX 경기소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487750",
+        "name": "BNK 온디바이스AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0127V0",
+        "name": "KIWOOM 미국S&P500 TOP10&배당다우비중전환",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "435040",
+        "name": "ACE 글로벌브랜드TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "453660",
+        "name": "KODEX 미국S&P500경기소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "404540",
+        "name": "TIGER KRX기후변화솔루션",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "373490",
+        "name": "KODEX 코리아혁신성장액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0208N0",
+        "name": "IBK 코스피액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0127T0",
+        "name": "KIWOOM 미국S&P500&배당다우존스비중전환",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0015F0",
+        "name": "KIWOOM 팔란티어미국30년국채혼합액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0084E0",
+        "name": "KIWOOM 미국대형주500월간목표헤지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0008E0",
+        "name": "ACE 미국중심중소형제조업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0113G0",
+        "name": "KoAct 미국바이오헬스케어액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "279540",
+        "name": "KODEX 최소변동성",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0013P0",
+        "name": "RISE 미국은행TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463640",
+        "name": "KODEX 미국S&P500유틸리티",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "269530",
+        "name": "PLUS S&P글로벌인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "269370",
+        "name": "TIGER S&P글로벌인프라(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489860",
+        "name": "KIWOOM 글로벌전력GRID인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "300610",
+        "name": "TIGER K게임",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0004G0",
+        "name": "1Q 미국배당TOP30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0090B0",
+        "name": "PLUS K방산소부장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438900",
+        "name": "HANARO Fn K-푸드",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "428560",
+        "name": "KODEX 미국ETF산업Top10 Indxx",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "465670",
+        "name": "TIGER 미국캐시카우100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "140580",
+        "name": "RISE 우량업종대표주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "354240",
+        "name": "RISE 미국고정배당우선증권",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "189400",
+        "name": "PLUS 글로벌MSCI(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "407820",
+        "name": "에셋플러스 코리아플랫폼액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0133E0",
+        "name": "TIGER 차이나증권",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266410",
+        "name": "KODEX 필수소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "435550",
+        "name": "KIWOOM TDF2050액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371870",
+        "name": "ACE 차이나항셍테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "166400",
+        "name": "TIGER 200커버드콜OTM",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0021C0",
+        "name": "ACE TDF장기자산배분액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498050",
+        "name": "HANARO 바이오코리아액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "448490",
+        "name": "HANARO 32-10 국고채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "457700",
+        "name": "KODEX 53-09 국고채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "451150",
+        "name": "에셋플러스 글로벌영에이지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0093B0",
+        "name": "RISE 엔비디아고정테크100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494180",
+        "name": "TIME 글로벌소비트렌드액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "385710",
+        "name": "TIME K이노베이션액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "485810",
+        "name": "TIME 글로벌바이오액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "451600",
+        "name": "PLUS 국고채30년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0067Y0",
+        "name": "TIGER 차이나AI소프트웨어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "461580",
+        "name": "TIGER 코스닥글로벌",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "252000",
+        "name": "TIGER 200동일가중",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "251590",
+        "name": "PLUS 고배당저변동50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "446700",
+        "name": "RISE 배터리 리사이클링",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "463690",
+        "name": "KODEX 미국S&P500커뮤니케이션",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0207G0",
+        "name": "SOL 우주항공밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "250730",
+        "name": "RISE 차이나HSCEI(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "410870",
+        "name": "TIME K컬처액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0094L0",
+        "name": "RISE 차이나테크TOP10위클리타겟커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "456250",
+        "name": "KODEX 유럽명품TOP10 STOXX",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "399580",
+        "name": "RISE 글로벌클린에너지",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0138D0",
+        "name": "RISE 동학개미",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0068M0",
+        "name": "KODEX 미국S&P500버퍼6월액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "354350",
+        "name": "HANARO 글로벌럭셔리S&P(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0094X0",
+        "name": "1Q 샤오미밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0191S0",
+        "name": "IBK 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "140710",
+        "name": "KODEX 운송",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "290080",
+        "name": "RISE 200고배당커버드콜ATM",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "429010",
+        "name": "TIGER 미국나스닥넥스트100",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0002C0",
+        "name": "에셋플러스 인도일등기업포커스20액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487910",
+        "name": "ACE 인도컨슈머파워액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0198A0",
+        "name": "KIWOOM 코스닥150커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "433250",
+        "name": "UNICORN R&D 액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "140570",
+        "name": "RISE 수출주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "301400",
+        "name": "PLUS 코스닥150",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "449680",
+        "name": "TIGER 한중전기차(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0172Y0",
+        "name": "ACE K수출핵심TOP10산업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "105010",
+        "name": "TIGER 라틴35",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "181480",
+        "name": "ACE 미국부동산리츠(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "310080",
+        "name": "RISE 중국MSCI China(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "488200",
+        "name": "KIWOOM K-2차전지북미공급망",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0189Z0",
+        "name": "DAISHIN343 금융&지주고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0120J0",
+        "name": "BNK 카카오그룹포커스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0084D0",
+        "name": "KIWOOM 미국테크100월간목표헤지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "497510",
+        "name": "ACE 글로벌빅파마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "482030",
+        "name": "KoAct 반도체&2차전지핵심소재액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "375270",
+        "name": "RISE 글로벌데이터센터리츠(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "429980",
+        "name": "SOL 한국형글로벌전기차&2차전지액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "117690",
+        "name": "TIGER 차이나항셍30",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0174R0",
+        "name": "KIWOOM 미국성장다우존스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "174350",
+        "name": "TIGER 로우볼",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "256450",
+        "name": "PLUS 심천차이넥스트(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "281990",
+        "name": "RISE 중소형고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395750",
+        "name": "PLUS ESG가치주액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "227570",
+        "name": "TIGER 우량가치",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "371150",
+        "name": "RISE 차이나항셍테크",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0166T0",
+        "name": "PLUS 글로벌저작권핵심기업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "435540",
+        "name": "KIWOOM TDF2040액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "494210",
+        "name": "SOL 미국500타겟데일리커버드콜액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "499150",
+        "name": "SOL 미국S&P500엔화노출(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "266550",
+        "name": "PLUS 중형주저변동50",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "480460",
+        "name": "WON 한국부동산TOP3플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395150",
+        "name": "KODEX 웹툰&드라마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "490330",
+        "name": "KoAct 미국치매&뇌질환치료제액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "497520",
+        "name": "ACE 일라이릴리밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "457930",
+        "name": "BNK 미래전략기술액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "462340",
+        "name": "에셋플러스 글로벌다이나믹시니어액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "395280",
+        "name": "HANARO Fn K-게임",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "487920",
+        "name": "ACE 인도시장대표BIG5그룹액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "381570",
+        "name": "HANARO Fn친환경에너지",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "270800",
+        "name": "RISE KQ고배당",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "402460",
+        "name": "HANARO Fn K-메타버스MZ",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "277650",
+        "name": "TIGER 코스피중형주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "390400",
+        "name": "KODEX 미국스마트모빌리티S&P",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "435530",
+        "name": "KIWOOM TDF2030액티브 적격",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "438740",
+        "name": "MIDAS 중소형액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "215620",
+        "name": "HK S&P코리아로우볼",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "227550",
+        "name": "TIGER 200 산업재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "182490",
+        "name": "TIGER 단기선진하이일드(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "450180",
+        "name": "KODEX 한중전기차(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "253280",
+        "name": "RISE 헬스케어",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0082F0",
+        "name": "HANARO 유럽방산",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "285690",
+        "name": "FOCUS ESG리더스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0047N0",
+        "name": "PLUS 차이나AI테크TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0176P0",
+        "name": "FOCUS AI반도체위클리고정커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "437370",
+        "name": "RISE 글로벌농업경제",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "466810",
+        "name": "BNK 2차전지양극재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0005C0",
+        "name": "RISE 미국S&P500엔화노출(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "488480",
+        "name": "RISE 일본섹터TOP4Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0184V0",
+        "name": "UNICORN K바이오액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0102X0",
+        "name": "ACE 유럽방산TOP10",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0036Z0",
+        "name": "RISE 미국천연가스밸류체인",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "326230",
+        "name": "RISE 내수주플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "272570",
+        "name": "RISE 중장기국공채액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "429740",
+        "name": "PLUS K리츠",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "316300",
+        "name": "ACE 싱가포르리츠",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0154H0",
+        "name": "KoAct 차이나바이오헬스케어액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "368680",
+        "name": "KODEX K-뉴딜디지털플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "307510",
+        "name": "TIGER 의료기기",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "413220",
+        "name": "SOL 차이나태양광CSI(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "244670",
+        "name": "KODEX 밸류Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139290",
+        "name": "TIGER 200 경기소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0087F0",
+        "name": "ACE 차이나AI빅테크TOP2+액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0191B0",
+        "name": "MIDAS 코스닥액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0132D0",
+        "name": "KoAct 글로벌K컬처밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "407300",
+        "name": "HANARO Fn골프테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0053M0",
+        "name": "더제이 중소형포커스액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476310",
+        "name": "RISE 글로벌비만산업TOP2+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0114X0",
+        "name": "RISE 글로벌게임테크TOP3Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "314700",
+        "name": "HANARO 농업융복합산업",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "220130",
+        "name": "SOL 차이나강소기업CSI500(합성 H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0078V0",
+        "name": "PLUS 미국로보택시",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483020",
+        "name": "KIWOOM 의료AI",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "139240",
+        "name": "TIGER 200 철강소재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "483030",
+        "name": "KIWOOM 미국블록버스터바이오테크의약품+",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "391600",
+        "name": "ACE 미국친환경그린테마",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "474390",
+        "name": "SOL 국고채30년액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "411860",
+        "name": "KIWOOM 독일DAX",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "261920",
+        "name": "ACE MSCI필리핀(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0131A0",
+        "name": "SOL 차이나소비트렌드",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0073X0",
+        "name": "FOCUS 알리바바미국채커버드콜혼합",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0128D0",
+        "name": "PLUS 차이나항셍테크위클리타겟커버드콜",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "321410",
+        "name": "KODEX 멀티에셋하이인컴(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "488210",
+        "name": "KIWOOM K-반도체북미공급망",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0015E0",
+        "name": "KIWOOM 엔비디아미국30년국채혼합액티브(H)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0174J0",
+        "name": "DAISHIN343 오피스리츠플러스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0015K0",
+        "name": "TIGER 미국소비트렌드액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "498610",
+        "name": "RISE 인도디지털성장",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "315270",
+        "name": "TIGER 200커뮤니케이션서비스",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "470310",
+        "name": "UNICORN 생성형AI강소기업액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0050E0",
+        "name": "PLUS 미국AI에이전트",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "373790",
+        "name": "KIWOOM 미국방어배당성장나스닥",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "244660",
+        "name": "KODEX 퀄리티Plus",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "227560",
+        "name": "TIGER 200 생활소비재",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "0079X0",
+        "name": "ACE BYD밸류체인액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "226380",
+        "name": "ACE Fn성장소비주도주",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "476000",
+        "name": "UNICORN 포스트IPO액티브",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "424460",
+        "name": "HANARO 글로벌워터MSCI(합성)",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "427120",
+        "name": "RISE AI플랫폼",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "489010",
+        "name": "PLUS 글로벌AI인프라",
+        "exchange": "KSC"
+      },
+      {
+        "symbol": "454180",
+        "name": "KIWOOM 차이나내수소비TOP CSI",
+        "exchange": "KSC"
+      }
+    ]
+  }
+}

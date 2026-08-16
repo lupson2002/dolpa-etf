@@ -1,0 +1,24 @@
+[Unit]
+Description=돌파etf - 한/미 통합 ETF 저변동 모멘텀 돌파 감시 데몬
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=mikey
+WorkingDirectory=/home/mikey/돌파etf
+Environment=PYTHONUNBUFFERED=1
+ExecStart=/usr/bin/python3 /home/mikey/돌파etf/main.py
+Restart=on-failure
+RestartSec=30
+StandardOutput=append:/home/mikey/돌파etf/logs/systemd.log
+StandardError=append:/home/mikey/돌파etf/logs/systemd.log
+
+# 안전 강화
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=read-only
+ReadWritePaths=/home/mikey/돌파etf/logs /home/mikey/돌파etf/data
+
+[Install]
+WantedBy=multi-user.target
