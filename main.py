@@ -127,14 +127,13 @@ def run_daily_batch(universe):
 def next_batch_time() -> datetime:
     """다음 16:00 KST 배치 시간 계산.
 
-    16:00~16:30 재시작 시当日 배치 스킵 회귀 방지 — 30분 버퍼(배치 소요 15-25분)
-    내에는当日 16:00 유지, 16:30 이후는 내일 16:00.
+    현재 시각이 오늘 16:00 이전이면 오늘 16:00, 이미 지났으면 내일 16:00 반환.
     """
     now = datetime.now(KST)
     batch_today = now.replace(hour=DAILY_BATCH_KST[0], minute=DAILY_BATCH_KST[1],
                               second=0, microsecond=0)
-    if now >= batch_today + timedelta(minutes=30):
-        batch_today += timedelta(days=1)
+    if now >= batch_today:
+        return batch_today + timedelta(days=1)
     return batch_today
 
 
